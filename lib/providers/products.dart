@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'dart:io';
-import 'package:ecart/models/period.dart';
+import 'package:sallaty/models/period.dart';
 import 'package:flutter/material.dart';
 import '../models/product.dart';
 

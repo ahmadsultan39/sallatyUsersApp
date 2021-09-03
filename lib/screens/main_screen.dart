@@ -1,10 +1,10 @@
-import 'package:ecart/providers/auth.dart';
-import 'package:ecart/screens/account_screen.dart';
-import 'package:ecart/screens/cart_screen.dart';
-import 'package:ecart/screens/drawer_screen.dart';
-import 'package:ecart/screens/home_screen.dart';
-import 'package:ecart/screens/offers_screen.dart';
-import 'package:ecart/screens/watchlist_screen.dart';
+import 'package:sallaty/providers/auth.dart';
+import 'package:sallaty/screens/account_screen.dart';
+import 'package:sallaty/screens/cart_screen.dart';
+import 'package:sallaty/screens/drawer_screen.dart';
+import 'package:sallaty/screens/home_screen.dart';
+import 'package:sallaty/screens/offers_screen.dart';
+import 'package:sallaty/screens/watchlist_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:provider/provider.dart';

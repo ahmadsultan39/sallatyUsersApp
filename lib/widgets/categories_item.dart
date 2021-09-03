@@ -1,5 +1,5 @@
-import 'package:ecart/models/category.dart';
-import 'package:ecart/screens/category_screen.dart';
+import 'package:sallaty/models/category.dart';
+import 'package:sallaty/screens/category_screen.dart';
 import 'package:flutter/material.dart';
 
 class CategoriesItem extends StatelessWidget {

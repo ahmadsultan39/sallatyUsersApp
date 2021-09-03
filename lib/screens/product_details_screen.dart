@@ -1,10 +1,10 @@
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/screens/gallery_view.dart';
-import 'package:ecart/screens/main_screen.dart';
-import 'package:ecart/widgets/add_to_cart.dart';
-import 'package:ecart/widgets/badge.dart';
-import 'package:ecart/widgets/favorite_icon.dart';
-import 'package:ecart/widgets/product_details_list.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/screens/gallery_view.dart';
+import 'package:sallaty/screens/main_screen.dart';
+import 'package:sallaty/widgets/add_to_cart.dart';
+import 'package:sallaty/widgets/badge.dart';
+import 'package:sallaty/widgets/favorite_icon.dart';
+import 'package:sallaty/widgets/product_details_list.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:provider/provider.dart';

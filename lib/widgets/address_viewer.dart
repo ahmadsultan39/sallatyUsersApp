@@ -1,6 +1,6 @@
-import 'package:ecart/providers/addresses.dart';
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/providers/products.dart';
+import 'package:sallaty/providers/addresses.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/providers/products.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/orders.dart';

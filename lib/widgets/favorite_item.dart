@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:ecart/models/product.dart';
-import 'package:ecart/models/product_details_screen_args.dart';
-import 'package:ecart/providers/auth.dart';
-import 'package:ecart/screens/product_details_screen.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/models/product_details_screen_args.dart';
+import 'package:sallaty/providers/auth.dart';
+import 'package:sallaty/screens/product_details_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:provider/provider.dart';

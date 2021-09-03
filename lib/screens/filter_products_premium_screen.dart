@@ -1,5 +1,5 @@
-import 'package:ecart/models/product.dart';
-import 'package:ecart/widgets/product_item.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/widgets/product_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/products.dart';

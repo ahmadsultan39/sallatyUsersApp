@@ -1,4 +1,4 @@
-import 'package:ecart/screens/adresses_screen.dart';
+import 'package:sallaty/screens/adresses_screen.dart';
 import 'package:flutter/material.dart';
 
 class NewAddressButton extends StatelessWidget {

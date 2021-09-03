@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/providers/products.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/providers/products.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:provider/provider.dart';

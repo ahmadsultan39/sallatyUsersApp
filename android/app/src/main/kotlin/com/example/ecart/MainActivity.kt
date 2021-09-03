@@ -1,4 +1,4 @@
-package com.example.ecart
+package com.example.sallaty
 
 import io.flutter.embedding.android.FlutterActivity
 

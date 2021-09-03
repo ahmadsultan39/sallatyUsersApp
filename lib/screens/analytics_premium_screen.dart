@@ -1,4 +1,4 @@
-import 'package:ecart/providers/products.dart';
+import 'package:sallaty/providers/products.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

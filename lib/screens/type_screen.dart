@@ -1,7 +1,7 @@
-import 'package:ecart/models/category.dart';
-import 'package:ecart/models/product.dart';
-import 'package:ecart/providers/products.dart';
-import 'package:ecart/widgets/product_item.dart';
+import 'package:sallaty/models/category.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/providers/products.dart';
+import 'package:sallaty/widgets/product_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

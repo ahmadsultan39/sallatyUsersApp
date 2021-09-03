@@ -1,5 +1,5 @@
-import 'package:ecart/screens/main_screen.dart';
-import 'package:ecart/screens/offer_item.dart';
+import 'package:sallaty/screens/main_screen.dart';
+import 'package:sallaty/screens/offer_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/products.dart';

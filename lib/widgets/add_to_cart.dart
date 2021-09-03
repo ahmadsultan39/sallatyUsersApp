@@ -1,9 +1,9 @@
-import 'package:ecart/models/product.dart';
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/providers/products.dart';
-import 'package:ecart/widgets/alert_dialog.dart';
-import 'package:ecart/widgets/not_available_container.dart';
-import 'package:ecart/widgets/quantity_icon.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/providers/products.dart';
+import 'package:sallaty/widgets/alert_dialog.dart';
+import 'package:sallaty/widgets/not_available_container.dart';
+import 'package:sallaty/widgets/quantity_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

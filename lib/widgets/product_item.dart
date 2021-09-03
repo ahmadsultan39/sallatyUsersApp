@@ -1,4 +1,4 @@
-import 'package:ecart/providers/auth.dart';
+import 'package:sallaty/providers/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:provider/provider.dart';

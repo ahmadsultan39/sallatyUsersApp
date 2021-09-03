@@ -1,5 +1,5 @@
-import 'package:ecart/models/period.dart';
-import 'package:ecart/models/product.dart';
+import 'package:sallaty/models/period.dart';
+import 'package:sallaty/models/product.dart';
 import 'package:flutter/material.dart';
 import 'cart.dart';
 import 'dart:convert';

@@ -1,8 +1,8 @@
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/providers/orders.dart';
-import 'package:ecart/widgets/add_copon_form.dart';
-import 'package:ecart/widgets/add_new_address_button.dart';
-import 'package:ecart/widgets/address_viewer.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/providers/orders.dart';
+import 'package:sallaty/widgets/add_copon_form.dart';
+import 'package:sallaty/widgets/add_new_address_button.dart';
+import 'package:sallaty/widgets/address_viewer.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

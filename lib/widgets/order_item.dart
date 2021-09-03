@@ -1,4 +1,4 @@
-import 'package:ecart/providers/cart.dart';
+import 'package:sallaty/providers/cart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import '../providers/orders.dart' as oi;

@@ -1,7 +1,7 @@
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/screens/main_screen.dart';
-import 'package:ecart/widgets/cart_object.dart';
-import 'package:ecart/widgets/complete_purchase.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/screens/main_screen.dart';
+import 'package:sallaty/widgets/cart_object.dart';
+import 'package:sallaty/widgets/complete_purchase.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:provider/provider.dart';

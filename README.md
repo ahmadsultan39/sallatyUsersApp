@@ -1,4 +1,4 @@
-# ecart
+# Sallaty
 
 A new Flutter project.
 

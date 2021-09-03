@@ -1,7 +1,7 @@
-import 'package:ecart/models/product.dart';
-import 'package:ecart/providers/products.dart';
-import 'package:ecart/screens/main_screen.dart';
-import 'package:ecart/widgets/favorite_item.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/providers/products.dart';
+import 'package:sallaty/screens/main_screen.dart';
+import 'package:sallaty/widgets/favorite_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'drawer_screen.dart';

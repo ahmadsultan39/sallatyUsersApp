@@ -1,14 +1,14 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:ecart/providers/auth.dart';
-import 'package:ecart/screens/analytics_premium_screen.dart';
+import 'package:sallaty/providers/auth.dart';
+import 'package:sallaty/screens/analytics_premium_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 
-import 'package:ecart/models/product.dart';
-import 'package:ecart/providers/cart.dart';
-import 'package:ecart/providers/orders.dart';
-import 'package:ecart/widgets/product_item.dart';
+import 'package:sallaty/models/product.dart';
+import 'package:sallaty/providers/cart.dart';
+import 'package:sallaty/providers/orders.dart';
+import 'package:sallaty/widgets/product_item.dart';
 
 import '../providers/products.dart';
 import '../widgets/seller_filtering_row.dart';

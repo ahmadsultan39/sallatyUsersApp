@@ -1,4 +1,4 @@
-import 'package:ecart/models/product.dart';
+import 'package:sallaty/models/product.dart';
 import 'package:flutter/material.dart';
 import 'package:photo_view/photo_view.dart';
 import 'package:photo_view/photo_view_gallery.dart';
